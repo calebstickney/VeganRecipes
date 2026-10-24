@@ -1289,7 +1289,7 @@ window.SITE_DATA = {
       "title": "Mixed Berry Pie",
       "category": "desserts",
       "description": "A juicy mixed berry filling in a flaky double crust.",
-      "image": "",
+      "image": "images/mixed-berry-pie-mvmxtiu6j49r.jpg",
       "prepTime": "30 min + chilling",
       "cookTime": "60 min",
       "servings": "8",
