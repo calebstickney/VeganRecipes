@@ -1,7 +1,7 @@
 /* Recipe data. Edit with admin.html, or carefully by hand (this is JSON). */
 window.SITE_DATA = {
   "siteTitle": "Sticknavila Vegan Recipes",
-  "tagline": "Our favorite plant-based recipes, from breakfast to dessert.",
+  "tagline": "Our favorite plant-based recipes.",
   "categories": [
     {
       "id": "breakfast",

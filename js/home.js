@@ -94,13 +94,6 @@
   const initialQ = new URLSearchParams(location.search).get('q');
   if (initialQ) { searchBox.value = initialQ; runSearch(); }
 
-  // Surprise me
-  $('#randomBtn').addEventListener('click', e => {
-    e.preventDefault();
-    if (!data.recipes.length) return;
-    location.href = recipeUrl(data.recipes[Math.floor(Math.random() * data.recipes.length)]);
-  });
-
   // Back to top
   const toTop = $('#toTop');
   window.addEventListener('scroll', () => { toTop.hidden = window.scrollY < 600; }, { passive: true });
