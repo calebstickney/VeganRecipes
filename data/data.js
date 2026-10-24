@@ -608,7 +608,7 @@ window.SITE_DATA = {
       "title": "Special Delicious Tofu",
       "category": "dinner",
       "description": "Crispy garlic-maple-soy tofu: simple, sticky and very snackable.",
-      "image": "",
+      "image": "images/special-delicious-tofu-mvn28zopjuhk.jpg",
       "prepTime": "10 min",
       "cookTime": "20 min",
       "servings": "3",
