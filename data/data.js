@@ -1355,6 +1355,22 @@ window.SITE_DATA = {
       "notes": "Large silicone molds make big, showy cubes.",
       "photos": [],
       "updated": "2026-10-24"
+    },
+    {
+      "id": "apple-maple-monkey-bread",
+      "title": "Apple Maple Monkey Bread",
+      "category": "desserts",
+      "description": "",
+      "image": "",
+      "prepTime": "",
+      "cookTime": "",
+      "servings": "",
+      "tags": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "photos": [],
+      "updated": "2026-10-24"
     }
   ]
 };
