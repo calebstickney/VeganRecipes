@@ -1498,10 +1498,10 @@ window.SITE_DATA = {
     },
     {
       "id": "sesame-tofu-on-sticks",
-      "title": "Sesame Tofu (on Sticks)",
+      "title": "Sesame Tofu",
       "category": "dinner",
       "description": "Crispy tofu skewers brushed with a sticky sesame-ginger glaze.",
-      "image": "",
+      "image": "images/sesame-tofu-on-sticks-mvn28fo76ber.jpg",
       "prepTime": "20 min + marinating",
       "cookTime": "25 min",
       "servings": "4 (about 8 skewers)",
