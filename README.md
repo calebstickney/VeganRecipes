@@ -7,19 +7,19 @@ A simple recipe website that runs for free on GitHub Pages. You can edit it from
 | File / folder | What it is |
 |---|---|
 | `index.html` | Home page: every recipe, grouped by category, with a category menu and search |
-| `recipe.html` | The page for one recipe (`recipe.html?id=tofu-scramble`) |
+| `recipe.html` | The page for one recipe (`recipe.html?id=crepes`) |
 | `admin.html` | The password-protected editor (add, edit and delete recipes, upload photos, manage categories) |
 | `data/data.js` | All recipe text and categories. The editor updates it for you. |
 | `data/config.js` | The editor's GitHub connection. Filled in automatically during setup. |
 | `images/` | Uploaded photos. The editor shrinks them to 1600px before uploading. |
 
-The site comes with 11 starter recipes so it isn't empty. Edit or delete them whenever you like.
+The site comes with 33 recipes. Their ingredients and directions are starter versions, so edit them to match how you make them.
 
 ## Putting it on GitHub (one time)
 
 1. **Create a GitHub account** at github.com if you don't have one.
 2. **Open GitHub Desktop** → *File → Add Local Repository…* → choose this **Website Docs** folder.
-   It will say the folder isn't a repository yet. Click **create a repository** and keep the defaults. A short, lowercase name like `vegan-recipes` works well.
+   The folder is already a git repository, so it opens straight away.
 3. Click **Publish repository**. **Untick "Keep this code private"**, because free GitHub Pages needs a public repository.
 4. On github.com, open the repository → **Settings → Pages**.
    Under *Build and deployment*, set **Source: Deploy from a branch**, **Branch: main**, folder **/ (root)**, then **Save**.
