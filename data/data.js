@@ -8,12 +8,8 @@ window.SITE_DATA = {
       "name": "Breakfast"
     },
     {
-      "id": "lunch",
-      "name": "Lunch"
-    },
-    {
       "id": "dinner",
-      "name": "Dinner"
+      "name": "Lunch & Dinner"
     },
     {
       "id": "soups-salads",
@@ -279,7 +275,7 @@ window.SITE_DATA = {
     {
       "id": "quesadillas",
       "title": "Quesadillas",
-      "category": "lunch",
+      "category": "dinner",
       "description": "Crispy tortillas filled with black beans, peppers and melty vegan cheese.",
       "image": "",
       "prepTime": "10 min",
@@ -317,7 +313,7 @@ window.SITE_DATA = {
     {
       "id": "power-bowls",
       "title": "Power Bowls",
-      "category": "lunch",
+      "category": "dinner",
       "description": "Grains, roasted veggies, chickpeas and greens with a lemony tahini drizzle.",
       "image": "",
       "prepTime": "15 min",
