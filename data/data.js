@@ -115,7 +115,7 @@ window.SITE_DATA = {
       "title": "Breakfast Casserole",
       "category": "breakfast",
       "description": "A cozy bake with vegan sausage, egg substitute, potatoes and veggies.",
-      "image": "",
+      "image": "images/breakfast-casserole-mvn26w7lqxpb.jpg",
       "prepTime": "20 min",
       "cookTime": "45 min",
       "servings": "8",
