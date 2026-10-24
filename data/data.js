@@ -3,15 +3,42 @@ window.SITE_DATA = {
   "siteTitle": "Emmy & Caleb's Vegan Recipes",
   "tagline": "Our favorite plant-based recipes, from breakfast to dessert.",
   "categories": [
-    { "id": "breakfast", "name": "Breakfast" },
-    { "id": "lunch", "name": "Lunch" },
-    { "id": "dinner", "name": "Dinner" },
-    { "id": "soups-salads", "name": "Soups & Salads" },
-    { "id": "sides", "name": "Sides" },
-    { "id": "snacks", "name": "Snacks & Appetizers" },
-    { "id": "desserts", "name": "Desserts" },
-    { "id": "drinks", "name": "Drinks" },
-    { "id": "sauces-basics", "name": "Sauces & Basics" }
+    {
+      "id": "breakfast",
+      "name": "Breakfast"
+    },
+    {
+      "id": "lunch",
+      "name": "Lunch"
+    },
+    {
+      "id": "dinner",
+      "name": "Dinner"
+    },
+    {
+      "id": "soups-salads",
+      "name": "Soups & Salads"
+    },
+    {
+      "id": "sides",
+      "name": "Sides"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks & Appetizers"
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts"
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks"
+    },
+    {
+      "id": "sauces-basics",
+      "name": "Sauces & Basics"
+    }
   ],
   "recipes": [
     {
@@ -23,7 +50,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "20 min",
       "servings": "8 crepes",
-      "tags": ["sweet", "weekend"],
+      "tags": [
+        "sweet",
+        "weekend"
+      ],
       "ingredients": [
         "1 cup all-purpose flour",
         "1 1/2 cups oat or soy milk",
@@ -56,7 +86,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "15 min",
       "servings": "4",
-      "tags": ["high-protein", "make-ahead"],
+      "tags": [
+        "high-protein",
+        "make-ahead"
+      ],
       "ingredients": [
         "1 block (14 oz) extra-firm tofu, pressed",
         "1 tbsp nutritional yeast",
@@ -90,7 +123,12 @@ window.SITE_DATA = {
       "prepTime": "20 min",
       "cookTime": "45 min",
       "servings": "8",
-      "tags": ["sausage", "eggs", "make-ahead", "brunch"],
+      "tags": [
+        "sausage",
+        "eggs",
+        "make-ahead",
+        "brunch"
+      ],
       "ingredients": [
         "1 tbsp olive oil",
         "8 oz vegan breakfast sausage, crumbled",
@@ -127,7 +165,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "30 min",
       "servings": "8",
-      "tags": ["make-ahead", "meal-prep"],
+      "tags": [
+        "make-ahead",
+        "meal-prep"
+      ],
       "ingredients": [
         "3 cups rolled oats",
         "1 cup chopped pecans or almonds",
@@ -164,7 +205,10 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "22 min",
       "servings": "12 muffins",
-      "tags": ["fall", "baking"],
+      "tags": [
+        "fall",
+        "baking"
+      ],
       "ingredients": [
         "1 3/4 cups all-purpose flour",
         "1 tsp baking soda",
@@ -200,7 +244,10 @@ window.SITE_DATA = {
       "prepTime": "20 min",
       "cookTime": "20 min",
       "servings": "12 muffins",
-      "tags": ["baking", "high-fiber"],
+      "tags": [
+        "baking",
+        "high-fiber"
+      ],
       "ingredients": [
         "1 1/2 cups wheat bran",
         "1 cup plant milk",
@@ -238,7 +285,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "15 min",
       "servings": "4",
-      "tags": ["quick", "kid-friendly"],
+      "tags": [
+        "quick",
+        "kid-friendly"
+      ],
       "ingredients": [
         "1 tbsp olive oil",
         "1 bell pepper, thinly sliced",
@@ -273,7 +323,11 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "30 min",
       "servings": "4",
-      "tags": ["meal-prep", "high-protein", "gluten-free"],
+      "tags": [
+        "meal-prep",
+        "high-protein",
+        "gluten-free"
+      ],
       "ingredients": [
         "1 cup quinoa or brown rice",
         "1 large sweet potato, cubed",
@@ -312,7 +366,11 @@ window.SITE_DATA = {
       "prepTime": "20 min + marinating",
       "cookTime": "15 min",
       "servings": "4",
-      "tags": ["grill", "summer", "gluten-free"],
+      "tags": [
+        "grill",
+        "summer",
+        "gluten-free"
+      ],
       "ingredients": [
         "1 block (14 oz) extra-firm tofu, pressed and cubed",
         "1 red onion, cut into chunks",
@@ -351,7 +409,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "25 min",
       "servings": "4",
-      "tags": ["one-pot", "gluten-free"],
+      "tags": [
+        "one-pot",
+        "gluten-free"
+      ],
       "ingredients": [
         "1 tbsp coconut oil",
         "1 onion, diced",
@@ -389,7 +450,10 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "15 min",
       "servings": "4",
-      "tags": ["quick", "weeknight"],
+      "tags": [
+        "quick",
+        "weeknight"
+      ],
       "ingredients": [
         "1 block (14 oz) extra-firm tofu, pressed and cubed",
         "1 tbsp cornstarch",
@@ -430,7 +494,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "10 min",
       "servings": "4",
-      "tags": ["quick", "weeknight"],
+      "tags": [
+        "quick",
+        "weeknight"
+      ],
       "ingredients": [
         "12 oz noodles (rice noodles, udon or spaghetti)",
         "2 cups shredded cabbage",
@@ -468,7 +535,9 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "30 min",
       "servings": "4",
-      "tags": ["high-protein"],
+      "tags": [
+        "high-protein"
+      ],
       "ingredients": [
         "1 block (14 oz) extra-firm tofu, pressed and cubed",
         "1 tbsp soy sauce",
@@ -506,7 +575,9 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "25 min",
       "servings": "4",
-      "tags": ["takeout-style"],
+      "tags": [
+        "takeout-style"
+      ],
       "ingredients": [
         "1 block (14 oz) extra-firm tofu, pressed and cubed",
         "1 tbsp soy sauce",
@@ -545,7 +616,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "20 min",
       "servings": "3",
-      "tags": ["high-protein", "quick"],
+      "tags": [
+        "high-protein",
+        "quick"
+      ],
       "ingredients": [
         "1 block (14 oz) extra-firm tofu, pressed",
         "2 tbsp cornstarch",
@@ -580,7 +654,10 @@ window.SITE_DATA = {
       "prepTime": "10 min + soaking",
       "cookTime": "15 min",
       "servings": "4",
-      "tags": ["pasta", "creamy"],
+      "tags": [
+        "pasta",
+        "creamy"
+      ],
       "ingredients": [
         "1 cup raw cashews, soaked 2 hours (or 15 minutes in boiling water)",
         "1 1/2 cups water or vegetable broth",
@@ -615,7 +692,11 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "12 min",
       "servings": "4",
-      "tags": ["quick", "summer", "pasta"],
+      "tags": [
+        "quick",
+        "summer",
+        "pasta"
+      ],
       "ingredients": [
         "1 lb pasta",
         "1 cup cherry tomatoes, halved",
@@ -648,7 +729,11 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "20 min",
       "servings": "4",
-      "tags": ["pasta", "creamy", "date-night"],
+      "tags": [
+        "pasta",
+        "creamy",
+        "date-night"
+      ],
       "ingredients": [
         "12 oz short pasta (rigatoni or penne)",
         "1 tbsp oil from the sun-dried tomato jar",
@@ -685,7 +770,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "25 min",
       "servings": "4",
-      "tags": ["one-pot", "creamy"],
+      "tags": [
+        "one-pot",
+        "creamy"
+      ],
       "ingredients": [
         "2 tbsp vegan butter or olive oil",
         "1 lb mushrooms (cremini or mixed), sliced",
@@ -721,7 +809,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "35 min",
       "servings": "4",
-      "tags": ["high-protein", "comfort-food"],
+      "tags": [
+        "high-protein",
+        "comfort-food"
+      ],
       "ingredients": [
         "2 tbsp olive oil",
         "1 onion, diced",
@@ -757,7 +848,10 @@ window.SITE_DATA = {
       "prepTime": "25 min",
       "cookTime": "25 min",
       "servings": "4–5",
-      "tags": ["mexican", "make-ahead"],
+      "tags": [
+        "mexican",
+        "make-ahead"
+      ],
       "ingredients": [
         "1 tbsp olive oil",
         "1 onion, diced",
@@ -795,7 +889,10 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "25 min",
       "servings": "4",
-      "tags": ["mexican", "weeknight"],
+      "tags": [
+        "mexican",
+        "weeknight"
+      ],
       "ingredients": [
         "1 tbsp olive oil",
         "1/2 onion, finely diced",
@@ -833,7 +930,9 @@ window.SITE_DATA = {
       "prepTime": "20 min",
       "cookTime": "30 min",
       "servings": "4",
-      "tags": ["mexican"],
+      "tags": [
+        "mexican"
+      ],
       "ingredients": [
         "2 sweet potatoes, cubed",
         "1 can (15 oz) black beans, drained",
@@ -870,14 +969,17 @@ window.SITE_DATA = {
     },
     {
       "id": "brag-and-bean-burrito",
-      "title": "Brag and Bean Burrito",
+      "title": "Rice and Bean Burrito",
       "category": "dinner",
-      "description": "Big burritos with rice and beans seasoned with Bragg Liquid Aminos.",
+      "description": "Big burritos with rice and beans.",
       "image": "",
       "prepTime": "15 min",
       "cookTime": "20 min",
       "servings": "4",
-      "tags": ["mexican", "freezer-friendly"],
+      "tags": [
+        "mexican",
+        "freezer-friendly"
+      ],
       "ingredients": [
         "1 tbsp olive oil",
         "1/2 onion, diced",
@@ -913,7 +1015,11 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "50 min",
       "servings": "4–6",
-      "tags": ["middle-eastern", "budget", "gluten-free"],
+      "tags": [
+        "middle-eastern",
+        "budget",
+        "gluten-free"
+      ],
       "ingredients": [
         "1/2 cup olive oil",
         "3 large onions, thinly sliced",
@@ -948,7 +1054,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "25 min",
       "servings": "4–6",
-      "tags": ["fall", "gluten-free"],
+      "tags": [
+        "fall",
+        "gluten-free"
+      ],
       "ingredients": [
         "2 tbsp olive oil or vegan butter",
         "1 onion, diced",
@@ -984,7 +1093,10 @@ window.SITE_DATA = {
       "prepTime": "10 min",
       "cookTime": "30 min",
       "servings": "6",
-      "tags": ["comfort-food", "one-pot"],
+      "tags": [
+        "comfort-food",
+        "one-pot"
+      ],
       "ingredients": [
         "2 tbsp olive oil",
         "1 onion, diced",
@@ -1021,7 +1133,10 @@ window.SITE_DATA = {
       "prepTime": "20 min",
       "cookTime": "50 min",
       "servings": "8",
-      "tags": ["holiday", "comfort-food"],
+      "tags": [
+        "holiday",
+        "comfort-food"
+      ],
       "ingredients": [
         "2 lb Yukon gold potatoes, thinly sliced or diced",
         "3 tbsp vegan butter",
@@ -1062,7 +1177,10 @@ window.SITE_DATA = {
       "prepTime": "20 min",
       "cookTime": "20 min",
       "servings": "6 (about 24)",
-      "tags": ["party", "holiday"],
+      "tags": [
+        "party",
+        "holiday"
+      ],
       "ingredients": [
         "24 cremini mushrooms",
         "2 tbsp olive oil",
@@ -1097,7 +1215,10 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "30 min",
       "servings": "16",
-      "tags": ["chocolate", "baking"],
+      "tags": [
+        "chocolate",
+        "baking"
+      ],
       "ingredients": [
         "1/2 cup vegan butter",
         "1 cup sugar",
@@ -1133,7 +1254,10 @@ window.SITE_DATA = {
       "prepTime": "15 min + chilling",
       "cookTime": "12 min",
       "servings": "18 cookies",
-      "tags": ["baking", "fall"],
+      "tags": [
+        "baking",
+        "fall"
+      ],
       "ingredients": [
         "1/2 cup vegan butter, softened",
         "1/2 cup maple syrup",
@@ -1169,7 +1293,10 @@ window.SITE_DATA = {
       "prepTime": "30 min + chilling",
       "cookTime": "60 min",
       "servings": "8",
-      "tags": ["summer", "baking"],
+      "tags": [
+        "summer",
+        "baking"
+      ],
       "ingredients": [
         "Crust (or use 2 store-bought vegan crusts):",
         "2 1/2 cups all-purpose flour",
@@ -1209,7 +1336,10 @@ window.SITE_DATA = {
       "prepTime": "15 min",
       "cookTime": "Freeze overnight",
       "servings": "1 tray",
-      "tags": ["party", "summer"],
+      "tags": [
+        "party",
+        "summer"
+      ],
       "ingredients": [
         "Edible flowers (pansies, violas, rose petals, lavender, borage, chamomile)",
         "Optional: mint leaves, berries, citrus slices",
