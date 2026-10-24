@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Emmy &amp; Caleb's Vegan Recipes</title>
+  <meta name="description" content="Our favorite plant-based recipes, organized by meal.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header" id="top">
+    <div class="wrap">
+      <h1 class="site-title"><a href="index.html" id="siteTitle">Emmy &amp; Caleb's Vegan Recipes</a></h1>
+      <p class="site-tagline" id="siteTagline"></p>
+    </div>
+  </header>
+
+  <nav class="toolbar" aria-label="Recipe navigation">
+    <div class="wrap">
+      <div class="dropdown" id="catDropdown">
+        <button class="btn primary" id="catButton" aria-haspopup="true" aria-expanded="false" aria-controls="catMenu">
+          Categories <span class="caret" aria-hidden="true">▾</span>
+        </button>
+        <ul class="dropdown-menu" id="catMenu" hidden></ul>
+      </div>
+      <label class="search">
+        <span class="visually-hidden" hidden>Search recipes</span>
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" d="M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15zm5.4-2.1L21 21"/></svg>
+        <input type="search" id="search" placeholder="Search recipes, ingredients, tags…" autocomplete="off" aria-label="Search recipes">
+        <button type="button" class="clear" id="clearSearch" aria-label="Clear search" hidden>×</button>
+      </label>
+      <a class="btn" id="randomBtn" href="#" title="Pick a random recipe">🎲 Surprise me</a>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <p class="result-note" id="resultNote" hidden></p>
+    <div id="sections"><p class="result-note">Loading recipes…</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>Made with 🌱 by Emmy &amp; Caleb</span>
+      <a href="admin.html">Edit recipes</a>
+    </div>
+  </footer>
+
+  <button class="back-to-top" id="toTop" aria-label="Back to top" hidden>↑</button>
+
+  <script src="js/common.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>
