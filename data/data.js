@@ -1007,7 +1007,7 @@ window.SITE_DATA = {
       "title": "Mjadra",
       "category": "dinner",
       "description": "The classic Middle Eastern dish of lentils and rice topped with deeply caramelized onions.",
-      "image": "",
+      "image": "images/mjadra-mvn27u5zxojp.jpg",
       "prepTime": "10 min",
       "cookTime": "50 min",
       "servings": "4–6",
