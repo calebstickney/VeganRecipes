@@ -721,7 +721,7 @@ window.SITE_DATA = {
       "title": "Marry Me Pasta",
       "category": "dinner",
       "description": "Creamy sun-dried tomato pasta with chickpeas, spinach and basil.",
-      "image": "",
+      "image": "images/marry-me-pasta-mvn27d0pn1jh.jpg",
       "prepTime": "10 min",
       "cookTime": "20 min",
       "servings": "4",
