@@ -149,9 +149,11 @@ main { padding-bottom: 40px; }
 }
 
 /* ---------- Footer ---------- */
-.site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; padding: 22px 0 30px; }
+.site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; padding: 22px 0 76px; }
 .site-footer .wrap { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.site-footer .wrap { align-items: center; }
 .site-footer a { color: var(--muted); }
+.site-footer a.edit-link { color: #fff; }
 
 /* ---------- Recipe page ---------- */
 .recipe-top { padding: 18px 0 0; }

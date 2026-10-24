@@ -32,7 +32,7 @@
   function normalizeData(d) {
     d = d && typeof d === 'object' ? d : {};
     return {
-      siteTitle: d.siteTitle || "Emmy & Caleb's Vegan Recipes",
+      siteTitle: d.siteTitle || "Sticknavila Vegan Recipes",
       tagline: d.tagline || '',
       categories: Array.isArray(d.categories) ? d.categories : [],
       recipes: Array.isArray(d.recipes) ? d.recipes : []

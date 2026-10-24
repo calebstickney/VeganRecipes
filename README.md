@@ -1,4 +1,4 @@
-# Emmy & Caleb's Vegan Recipes
+# Sticknavila Vegan Recipes
 
 A simple recipe website that runs for free on GitHub Pages. You can edit it from any phone or computer browser, protected by a password.
 
