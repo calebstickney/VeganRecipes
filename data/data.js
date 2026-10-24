@@ -1371,6 +1371,22 @@ window.SITE_DATA = {
       "notes": "",
       "photos": [],
       "updated": "2026-10-24"
+    },
+    {
+      "id": "zucchini-boats",
+      "title": "Zucchini Boats",
+      "category": "dinner",
+      "description": "",
+      "image": "images/zucchini-boats-mvmxxg4ja6bu.jpg",
+      "prepTime": "",
+      "cookTime": "",
+      "servings": "",
+      "tags": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "photos": [],
+      "updated": "2026-10-24"
     }
   ]
 };
