@@ -1328,7 +1328,7 @@ window.SITE_DATA = {
       "title": "Flower Ice Cubes",
       "category": "drinks",
       "description": "Pretty ice cubes with edible flowers frozen inside, perfect for parties and lemonade.",
-      "image": "",
+      "image": "images/flower-ice-cubes-mvn2ezl0zit7.jpg",
       "prepTime": "15 min",
       "cookTime": "Freeze overnight",
       "servings": "1 tray",
@@ -1350,7 +1350,7 @@ window.SITE_DATA = {
       ],
       "notes": "Large silicone molds make big, showy cubes.",
       "photos": [],
-      "updated": "2026-10-24"
+      "updated": "2026-10-25"
     },
     {
       "id": "apple-maple-monkey-bread",
