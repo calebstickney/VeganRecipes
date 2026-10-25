@@ -1357,7 +1357,7 @@ window.SITE_DATA = {
       "title": "Apple Maple Monkey Bread",
       "category": "desserts",
       "description": "Pull-apart bread with cinnamon-sugar dough balls, tender apples and a sticky maple glaze.",
-      "image": "",
+      "image": "images/apple-maple-monkey-bread-mvn2a9dl2bi3.jpg",
       "prepTime": "30 min + rising",
       "cookTime": "40 min",
       "servings": "10",
@@ -1398,7 +1398,7 @@ window.SITE_DATA = {
       ],
       "notes": "Starter version. Update it to match how you make it!",
       "photos": [],
-      "updated": "2026-10-24"
+      "updated": "2026-10-25"
     },
     {
       "id": "zucchini-boats",
