@@ -605,7 +605,7 @@ window.SITE_DATA = {
     },
     {
       "id": "special-delicious-tofu",
-      "title": "Special Delicious Tofu",
+      "title": "Rosie’s Special Delicious Addictive Tofu",
       "category": "dinner",
       "description": "Crispy garlic-maple-soy tofu: simple, sticky and very snackable.",
       "image": "images/special-delicious-tofu-mvn28zopjuhk.jpg",
@@ -639,7 +639,7 @@ window.SITE_DATA = {
       ],
       "notes": "Starter version — replace with your own special recipe!",
       "photos": [],
-      "updated": "2026-10-24"
+      "updated": "2026-10-25"
     },
     {
       "id": "noochy-cashew-alfredo",
