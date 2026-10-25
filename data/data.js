@@ -608,7 +608,7 @@ window.SITE_DATA = {
       "title": "Rosie’s Special Delicious Addictive Tofu",
       "category": "dinner",
       "description": "Crispy garlic-maple-soy tofu: simple, sticky and very snackable.",
-      "image": "images/special-delicious-tofu-mvn28zopjuhk.jpg",
+      "image": "images/special-delicious-tofu-mvo2otbrggy3.jpg",
       "prepTime": "10 min",
       "cookTime": "20 min",
       "servings": "3",
