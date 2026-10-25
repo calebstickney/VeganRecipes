@@ -1123,7 +1123,7 @@ window.SITE_DATA = {
     {
       "id": "potato-casserole",
       "title": "Potato Casserole",
-      "category": "sides",
+      "category": "dinner",
       "description": "Cheesy, creamy potato casserole with a crunchy topping.",
       "image": "",
       "prepTime": "20 min",
