@@ -1448,7 +1448,7 @@ window.SITE_DATA = {
       "title": "Cherry Chocolate Cake",
       "category": "desserts",
       "description": "A moist, dark chocolate cake layered with tart cherry filling and chocolate frosting.",
-      "image": "",
+      "image": "images/cherry-chocolate-cake-mvn2ap1dx43h.jpg",
       "prepTime": "30 min",
       "cookTime": "30 min",
       "servings": "12",
@@ -1494,7 +1494,7 @@ window.SITE_DATA = {
       ],
       "notes": "Chill the cake 30 minutes before slicing for neat layers. A splash of kirsch or almond extract in the cherry filling is lovely.",
       "photos": [],
-      "updated": "2026-10-24"
+      "updated": "2026-10-25"
     },
     {
       "id": "sesame-tofu-on-sticks",
