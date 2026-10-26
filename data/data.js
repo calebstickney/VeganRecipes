@@ -1549,10 +1549,10 @@ window.SITE_DATA = {
       "title": "German Apple Pancakes",
       "category": "breakfast",
       "description": "Apfelpfannkuchen: big, thin pancakes cooked over caramelized cinnamon apples.",
-      "image": "",
+      "image": "images/german-apple-pancakes-mvpcukc49xkm.jpg",
       "prepTime": "15 min",
       "cookTime": "25 min",
-      "servings": "4 large pancakes",
+      "servings": "1 large pancake",
       "tags": [
         "weekend",
         "fall",
@@ -1587,7 +1587,7 @@ window.SITE_DATA = {
       ],
       "notes": "For a puffy oven-baked version (like a Dutch baby), bake the caramelized apples and batter together in a hot cast-iron skillet at 425°F for 20 minutes. Vegan versions puff less, but they're still delicious.",
       "photos": [],
-      "updated": "2026-10-24"
+      "updated": "2026-10-26"
     }
   ]
 };
