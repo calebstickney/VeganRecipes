@@ -1588,6 +1588,22 @@ window.SITE_DATA = {
       "notes": "For a puffy oven-baked version (like a Dutch baby), bake the caramelized apples and batter together in a hot cast-iron skillet at 425°F for 20 minutes. Vegan versions puff less, but they're still delicious.",
       "photos": [],
       "updated": "2026-10-26"
+    },
+    {
+      "id": "potato-wedges",
+      "title": "Potato Wedges",
+      "category": "sides",
+      "description": "",
+      "image": "images/potato-wedges-mvpcv26b9yzq.jpg",
+      "prepTime": "",
+      "cookTime": "",
+      "servings": "",
+      "tags": [],
+      "ingredients": [],
+      "steps": [],
+      "notes": "",
+      "photos": [],
+      "updated": "2026-10-26"
     }
   ]
 };
