@@ -1594,7 +1594,7 @@ window.SITE_DATA = {
       "title": "Potato Wedges",
       "category": "sides",
       "description": "",
-      "image": "images/potato-wedges-mvpcv26b9yzq.jpg",
+      "image": "images/potato-wedges-mvpcxo0fike8.jpg",
       "prepTime": "",
       "cookTime": "",
       "servings": "",
